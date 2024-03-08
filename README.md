@@ -16,7 +16,7 @@ Feel free to connect with me @nfirbas for all things tech or just to say hello! 
 
 Joined Github **5** years ago.
 
-Since then I pushed **131**+ commits, opened **3**+ issues, submitted **2**+ pull requests, created **0**+ gists and contributed to **0**+ public repositories.
+Since then I pushed **133**+ commits, opened **3**+ issues, submitted **2**+ pull requests, created **0**+ gists and contributed to **0**+ public repositories.
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/nfirbas/nfirbas/master/gifs/coder.gif" />
