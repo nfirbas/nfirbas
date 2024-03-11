@@ -16,7 +16,7 @@ Feel free to connect with me @nfirbas for all things tech or just to say hello! 
 
 Joined Github **5** years ago.
 
-Since then I pushed **133**+ commits, opened **3**+ issues, submitted **2**+ pull requests, created **0**+ gists and contributed to **0**+ public repositories.
+Since then I pushed **135**+ commits, opened **3**+ issues, submitted **2**+ pull requests, created **0**+ gists and contributed to **0**+ public repositories.
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/nfirbas/nfirbas/master/gifs/coder.gif" />
@@ -54,7 +54,7 @@ Since then I pushed **133**+ commits, opened **3**+ issues, submitted **2**+ pul
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nfirbas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfirbasshow_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfirbas&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
