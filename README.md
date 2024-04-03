@@ -14,7 +14,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @nfirbas for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **5** years ago.
+Joined Github **6** years ago.
 
 Since then I pushed **136**+ commits, opened **3**+ issues, submitted **4**+ pull requests, created **0**+ gists and contributed to **0**+ public repositories.
 
